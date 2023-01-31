@@ -1,6 +1,6 @@
 # python-api-challenge
 
-** All Jupyter Notebooks can be found in the WeatherPy Folder
+** All Jupyter Notebooks can be found in the WeatherPy Folder **
 
 ## WeatherPy
 Create Plots to Showcase the Relationship Between Weather Variables and Latitude
